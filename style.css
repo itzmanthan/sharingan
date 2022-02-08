@@ -1,0 +1,63 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color:rgb(255, 78, 78) ;
+}
+.img1{
+  position: absolute;
+ top: 200px;
+ left: 30px;
+  width: 25%;
+  height: 60.2%;
+
+}
+.img2{
+  position:absolute;
+  top: 180px;
+  width: 25%;
+  right: 30px;
+  height: 62.5%;
+}
+
+
+h1{
+  font-size: 90px;
+  font-family: 'Permanent Marker', cursive;
+  margin-top: 0;
+  color: white;
+}
+.sub{
+  font-family: 'Comforter', cursive;
+  font-size: 40px;
+  color: white;
+}
+.top-container{
+  background-color: darkred;
+
+}
+
+.dp{
+  width: 22%;
+}
+.sub{
+line-height: 2;
+}
+h2{
+  font-family: 'Quintessential', cursive;
+}
+.footer{
+  background-color:darkred ;
+padding: 30px;
+}
+.foot1{
+  margin: 30px;
+}
+.copyright{
+  margin-top: 30px;
+}
+.middle-row{
+border-radius: 100px;
+}
+.middle-container{
+ 
+}
